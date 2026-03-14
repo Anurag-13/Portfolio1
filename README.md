@@ -1,2 +1,2 @@
 # Portfolio1
-A Portfolio mini Project using HTML &amp; CSS
+A Portfolio minor Project using HTML &amp; CSS
